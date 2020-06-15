@@ -1,0 +1,96 @@
+{
+    "projects": [
+            {
+                "id": "0",
+                "project_name": "Treehouse FSJS Techdegree Project 1 - Random Quote Generator",
+                "description": "This project uses JavaScript to display a random quote every 7.5 seconds and changes the background color of the page when a new quote is displayed.",
+                "technologies": [
+                    "HTML",
+                    "CSS",
+                    "JavaScript"
+                ],
+                "live_link": "https://devmo-13.github.io/project-1---random-quote-generator/",
+                "github_link": "https://github.com/DevMo-13/project-1---random-quote-generator",
+                "image_urls": [
+                    "../static/images/project1/p1.1.png",
+                    "../static/images/project1/p1.2.png",
+                    "../static/images/project1/p1.3.png",
+                    "../static/images/project1/p1.4.png"
+                ]
+            },
+            {
+                "id": "1",
+                "project_name": "Treehouse FSJS Techdegree Project 2 - List Pagination and Filtering",
+                "description": "This project uses JavaScript to take a list of student info and only displays 10 students on the page at a time. Navigation capability is added using numbered links at the bottom of the page so users can click through each page to see the other students' info.",
+                "technologies": [
+                    "HTML",
+                    "CSS",
+                    "JavaScript"
+                ],
+                "live_link": "https://devmo-13.github.io/project-2---list-pagination-and-filtering/",
+                "github_link": "https://github.com/DevMo-13/project-2---list-pagination-and-filtering",
+                "image_urls": [
+                    "../static/images/project1/p2.1.png",
+                    "../static/images/project1/p2.2.png",
+                    "../static/images/project1/p2.3.png",
+                    "../static/images/project1/p2.4.png"
+                ]
+            },
+            {
+                "id": "2",
+                "project_name": "Treehouse FSJS Techdegree Project 3 - Interactive Form",
+                "description": "This project uses JavaScript to enhance an interactive registration form for a fictional conference called FullStack Conf. Customized and conditional behavior / interactivity were added, and the form validates user input and provides helpful error messages when the user enters invalid information into the form fields.",
+                "technologies": [
+                    "HTML",
+                    "CSS",
+                    "JavaScript"
+                ],
+                "live_link": "https://devmo-13.github.io/project-3---interactive-form/",
+                "github_link": "https://github.com/DevMo-13/project-3---interactive-form",
+                "image_urls": [
+                    "../static/images/project1/p3.1.png",
+                    "../static/images/project1/p3.2.png",
+                    "../static/images/project1/p3.3.png",
+                    "../static/images/project1/p3.4.png"
+                ]
+            },
+            {
+                "id": "3",
+                "project_name": "Treehouse FSJS Techdegree Project 4 - OOP Game Show App",
+                "description": "This project uses JavaScript and OOP (Object-Oriented Programming) to create a browser-based, word guessing game: Phrase Hunter. The game selects a random, hidden phrase, which a player then tries to guess.",
+                "technologies": [
+                    "HTML",
+                    "CSS",
+                    "JavaScript",
+                    "Object-Oriented Programming"
+                ],
+                "live_link": "https://devmo-13.github.io/project-4---oop-game-show-app/",
+                "github_link": "https://github.com/DevMo-13/project-4---oop-game-show-app",
+                "image_urls": [
+                    "../static/images/project1/p4.1.png",
+                    "../static/images/project1/p4.2.png",
+                    "../static/images/project1/p4.3.png",
+                    "../static/images/project1/p4.4.png"
+                ]
+            },
+            {
+                "id": "4",
+                "project_name": "Treehouse FSJS Techdegree Project 5 - Public API Requests",
+                "description": "This project builds an app for a fictional company called Awesome Startup. This app uses the Random User Generator API (https://randomuser.me/) to grab information for random “employees,” and uses that data to build a prototype for an Awesome Startup employee directory. This directory has employees listed in a grid with their thumbnail image, full name, email, and location. Clicking the employee’s image or name will open a modal window with more detailed information, such as the employee’s birthday and address.",
+                "technologies": [
+                    "HTML",
+                    "CSS",
+                    "JavaScript",
+                    "API"
+                ],
+                "live_link": "https://devmo-13.github.io/project-5---public-api-requests/",
+                "github_link": "https://github.com/DevMo-13/project-5---public-api-requests",
+                "image_urls": [
+                    "../static/images/project1/p5.1.png",
+                    "../static/images/project1/p5.2.png",
+                    "../static/images/project1/p5.3.png",
+                    "../static/images/project1/p5.4.png"
+                ]
+            }
+    ]
+}
