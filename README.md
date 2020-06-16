@@ -7,5 +7,5 @@ This project utilizes Node.js, Express, and Pug to create a portfolio site to sh
 
 CSS changes made for Exceeds Expectations:
 - changed background color of the side panel
-- changed font of the h1 headers
+- changed font and color of the h1 headers
 - added shadows to the h1 headers
