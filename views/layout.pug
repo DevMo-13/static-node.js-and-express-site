@@ -1,10 +1,14 @@
 <!DOCTYPE html>
+//- This template sets the basic layout for all the pages of the site.
+//- It holds the unchanging elements of the page, and designates where the other page layout extensions are to included.
+//- This template also links all relevant client-side JavaScript files.
+
 html(class="no-js" lang="en" dir="ltr")
   head
     meta(charset='utf-8')
     meta(http-equiv='x-ua-compatible', content='ie=edge')
     meta(name='viewport', content='width=device-width, initial-scale=1.0')
-    title Portfolio Site
+    title Monique's Portfolio Site
     link(href='https://fonts.googleapis.com/css?family=Merriweather:300,400,400i,700,800', rel='stylesheet')
     link(rel='stylesheet', href='/static/css/foundation.css')
     link(rel='stylesheet', href='/static/css/style.css')
@@ -14,30 +18,22 @@ html(class="no-js" lang="en" dir="ltr")
         block sidebar
           br
           .cell.shrink
-            img.thumbnail(src='https://placehold.it/550x350')
+            img.thumbnail(src='/static/img/profile-pic.jpg')
           .cell.auto
-
-            //- Add your name here.
-            h5 Name
-
-            //- Add text here to describe who you are, what you do, and why you are so awesome.
+            h5 MONIQUE CINATL
             p.text-light
-              | Description
-
-            //- Add about page route to the href below. 
-            a(href='') Learn More →
-
+              | I am an aspiring software developer and current student in Treehouse's full-stack JavaScript techdegree.
+              br
+              br
+              | Check out some of the projects I have worked on so far!
+            a(href='/about') Learn More →
     .off-canvas-content(data-off-canvas-content='')
       .title-bar.hide-for-large
         .title-bar-left
           button.menu-icon(type='button', data-toggle='my-info')
-
-          //- Add your name here.  This is for the mobile screen sized version.
-          span.title-bar-title Name
+          span.title-bar-title MONIQUE CINATL
       block content
         
-
-      
   script(src='/static/js/vendor/jquery.js')
   script(src='/static/js/vendor/what-input.js')
   script(src='/static/js/vendor/foundation.js')
