@@ -3,6 +3,14 @@ h1,h2,h3,h4,h5,p{
   font-family: 'Merriweather', serif;
 }
 
+  h1{ /* added all of this to style h1 headers */
+    font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    letter-spacing: 0.5px;
+    -webkit-text-transform: uppercase;
+    text-transform: uppercase;
+    text-shadow: #B0C0CC 2px 2px 3px; /* added shadow */
+    color: #14314A; /* changed color */
+  }
   h5{
     font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     letter-spacing: 2.5px;
@@ -58,7 +66,7 @@ a:hover{
 
 .portfolio-me{
   padding: 20px;
-  background: #121213;
+  background: #14314A; /* changed color */
   color: #fff;
   box-shadow: none !important;
 }
