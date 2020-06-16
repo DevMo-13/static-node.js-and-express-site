@@ -3,7 +3,7 @@
             {
                 "id": "0",
                 "project_name": "Project 1 - Random Quote Generator",
-                "description": "This project uses JavaScript to display a random quote every 7.5 seconds and changes the background color of the page when a new quote is displayed.",
+                "description": "This project uses JavaScript to display a random quote every 7.5 seconds and changes the background color of the page when a new quote is displayed. The show another quote button can also be used to change to a new quote.",
                 "technologies": [
                     "HTML",
                     "CSS",
@@ -57,7 +57,7 @@
             {
                 "id": "3",
                 "project_name": "Project 4 - OOP Game Show App",
-                "description": "This project uses JavaScript and OOP (Object-Oriented Programming) to create a browser-based, word guessing game: Phrase Hunter. The game selects a random, hidden phrase, which a player then tries to guess.",
+                "description": "This project uses JavaScript and OOP (Object-Oriented Programming) to create a browser-based, word guessing game: Phrase Hunter. The game selects a random, hidden phrase, which a player then tries to guess. The user can use the physical keyboard or click on the on-screen buttons to play the game.",
                 "technologies": [
                     "HTML",
                     "CSS",
@@ -76,7 +76,7 @@
             {
                 "id": "4",
                 "project_name": "Project 5 - Public API Requests",
-                "description": "This project builds an app for a fictional company called Awesome Startup. This app uses the Random User Generator API (https://randomuser.me/) to grab information for random “employees,” and uses that data to build a prototype for an Awesome Startup employee directory. This directory has employees listed in a grid with their thumbnail image, full name, email, and location. Clicking the employee’s image or name will open a modal window with more detailed information, such as the employee’s birthday and address.",
+                "description": "This project builds an app for a fictional company called Awesome Startup. This app uses the Random User Generator API (https://randomuser.me/) to grab information for random “employees,” and uses that data to build a prototype for an Awesome Startup employee directory. This directory has employees listed in a grid with their thumbnail image, full name, email, and location. Clicking the employee’s image or name will open a modal window with more detailed information, and users can navigate to the other employees' modals by clicking on the next and prev buttons. Search functionality has also been added.",
                 "technologies": [
                     "HTML",
                     "CSS",

@@ -2,7 +2,7 @@
   "name": "project-6---static-node.js-and-express-site",
   "version": "1.0.0",
   "description": "project 6",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
