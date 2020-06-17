@@ -30,7 +30,12 @@ app.get('/about', (req, res) => {
 app.get('/project/:id', (req, res, next) => {
     const id = req.params.id;
     const thisProjData = data.projects[id];
-    res.render('project', {thisProjData});
+
+    if (thisProjData) {
+        res.render('project', {thisProjData});
+    } else {
+        next();
+    }
 });
 
 // Catches a 404 error to send to error handler.
