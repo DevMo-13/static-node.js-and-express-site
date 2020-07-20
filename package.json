@@ -24,6 +24,7 @@
   "homepage": "https://github.com/DevMo-13/project-6---static-node.js-and-express-site#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "lodash": "^4.17.19",
     "pug": "^3.0.0"
   }
 }
