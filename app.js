@@ -6,6 +6,7 @@ FSJS project 6 - Static Node.js and Express Site
 
 const express = require('express');
 const app = express();
+const port = process.env.PORT || 3000;
 
 const data = require('./data.json');
 
