@@ -3,6 +3,8 @@
 
 Portfolio site to showcase projects in the Treehouse techdegree.
 
+Live link to the project can be found here: https://devmo-treehouse-portfolio.herokuapp.com/.
+
 ---
 
 Key achievements:
